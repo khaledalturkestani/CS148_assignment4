@@ -1,0 +1,5 @@
+background1=sully2.jpg
+line=30,30:30, 100
+background2=sully1.jpg
+line=80,30:50,100
+

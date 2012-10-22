@@ -1,0 +1,2 @@
+loadfile=lineEditorFile.txt
+savefile=lineEditorFile.txt

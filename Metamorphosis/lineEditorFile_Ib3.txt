@@ -1,0 +1,4 @@
+background1=Stest.png
+line=143,122:146,408
+background2=Stest.png
+line=145,122:145,255
